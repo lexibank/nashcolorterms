@@ -1,0 +1,6 @@
+LEXEME,REPLACEMENT,COMMENT
+"duhndun Y, nyagu, jagabar","duhndun, nyagu, jagabar",remove variety tag
+"dalahn Y,G,C, deber W,C","dalahn,deber",remove variety tag
+"gudhihn G, gudhihyn W,We, gudhihny","gudhihn, gudhihyn, gudhihny",remove variety tag
+peimba or blowarn,"peimba, blowarn",handle 'or'
+kilkilkaRu ?,kilkilkaRu,remove ?
