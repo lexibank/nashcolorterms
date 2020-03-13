@@ -6,12 +6,6 @@ from clldutils.misc import slug
 SUPPLEMENT = "https://zenodo.org/record/1032450/files/amended%20PNy%20colour%20vocabs%2020171022.xlsx?download=1"
 
 
-# TODO: Once https://github.com/concepticon/concepticon-data/pull/702 is merged:
-# 1. update metadata.json to show list "Haynie-2016-9".
-# 2. remove ./etc/concepts.csv
-# 3. revise concept loading below
-
-
 class Dataset(pylexibank.Dataset):
     dir = Path(__file__).parent
     id = "nashcolorterms"
@@ -38,20 +32,10 @@ class Dataset(pylexibank.Dataset):
         args.writer.add_sources()
         languages = args.writer.add_languages(lookup_factory="Name")
         
-        # concepts = args.writer.add_concepts(
-        #     id_factory=lambda c: c.id.split("-")[-1] + "_" + slug(c.english),
-        #     lookup_factory="Name"
-        # )
-        concepts = {}
-        for i, concept in enumerate(self.concepts, 1):
-            cid = "%d_%s" % (i, slug(concept['Gloss']))
-            args.writer.add_concept(
-                ID=cid,
-                Name=concept['Gloss'],
-                Concepticon_ID=concept['Concepticon_ID'],
-                Concepticon_Gloss=concept['Concepticon_Gloss']
-            )
-            concepts[concept['Gloss']] = cid
+        concepts = args.writer.add_concepts(
+            id_factory=lambda c: c.id.split("-")[-1] + "_" + slug(c.english),
+            lookup_factory="Name"
+        )
         
         for row in self.raw_dir.read_csv("amended PNy colour vocabs 20171022-edited.csv", dicts=True):
             lang = row.pop('language').strip()

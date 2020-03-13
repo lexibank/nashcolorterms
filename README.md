@@ -6,9 +6,13 @@ Cite the source dataset as
 
 Available online at CC
 
+
+Conceptlists in Concepticon:
+- [Nash-2017-9](https://concepticon.clld.org/contributions/Nash-2017-9)
 ## Statistics
 
 
+[![Build Status](https://travis-ci.org/lexibank/nashcolorterms.svg?branch=master)](https://travis-ci.org/lexibank/nashcolorterms)
 ![Glottolog: 98%](https://img.shields.io/badge/Glottolog-98%25-green.svg "Glottolog: 98%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
@@ -18,3 +22,11 @@ Available online at CC
 - **Lexemes:** 989
 - **Sources:** 2
 - **Synonymy:** 1.12
+
+# Contributors
+
+Name | GitHub user | Role
+--- | --- | ---
+ | @ | maintainer
+
+
