@@ -3,11 +3,12 @@
     "aboutUrl": null,
     "dc:bibliographicCitation": "Nash, D. (2017). Loss of color terms not demonstrated. Proceedings of the National Academy of Sciences, 114(39), E8131\u2013E8131. doi:10.1073/pnas.1714007114",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
+    "dc:description": "Loss of color terms not demonstrated.",
     "dc:format": [
         "http://concepticon.clld.org/contributions/Nash-2017-9"
     ],
-    "dc:identifier": "CC",
     "dc:isVersionOf": "http://lexibank.clld.org/contributions/Haynie, H. J., & Bowern, C. (2016). Phylogenetic approach to the evolution of color term systems. Proceedings of the National Academy of Sciences, 113(48), 13666\u201313671. doi:10.1073/pnas.1613666113",
+    "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "Loss of color terms not demonstrated.",
@@ -17,7 +18,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/nashcolorterms",
-            "dc:created": "dbd5cf9"
+            "dc:created": "06b8126"
         },
         {
             "rdf:type": "prov:Entity",
@@ -29,7 +30,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.3.0"
+            "dc:created": "v2.3.0-8-g317862c"
         },
         {
             "rdf:type": "prov:Entity",

@@ -4,7 +4,10 @@ Cite the source dataset as
 
 > Nash, D. (2017). Loss of color terms not demonstrated. Proceedings of the National Academy of Sciences, 114(39), E8131–E8131. doi:10.1073/pnas.1714007114
 
-Available online at CC
+
+Loss of color terms not demonstrated.
+
+This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
 
 
 Conceptlists in Concepticon:
