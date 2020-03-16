@@ -1,9 +1,8 @@
 {
     "id": "nashcolorterms",
     "title":  "Loss of color terms not demonstrated.",
-    "description": null,
-    "license": null,
-    "url": "CC",
+    "description": "Loss of color terms not demonstrated.",
+    "license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "citation": "Nash, D. (2017). Loss of color terms not demonstrated. Proceedings of the National Academy of Sciences, 114(39), E8131–E8131. doi:10.1073/pnas.1714007114",
     "aboutUrl": null,
     "conceptlist": ["Nash-2017-9"],
@@ -11,5 +10,4 @@
     "derived_from": "Haynie, H. J., & Bowern, C. (2016). Phylogenetic approach to the evolution of color term systems. Proceedings of the National Academy of Sciences, 113(48), 13666–13671. doi:10.1073/pnas.1613666113",
     "related": null,
     "source": null,
-    "patron": null
 }
