@@ -1,5 +1,5 @@
 # Contributors
 
-Name | GitHub user | Role
---- | --- | ---
- | @ | maintainer
+Name               | GitHub user     | Description                          | Role
+---                | ---             | ---                                  | ---
+Simon J. Greenhill | @SimonGreenhill | patron                               | Author
