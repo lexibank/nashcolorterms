@@ -1,4 +1,4 @@
-# Loss of color terms not demonstrated.
+# CLDF dataset derived from Nash's "Loss of color terms not demonstrated." from 2017.
 
 Cite the source dataset as
 
@@ -28,8 +28,8 @@ Conceptlists in Concepticon:
 
 # Contributors
 
-Name | GitHub user | Role
---- | --- | ---
- | @ | maintainer
+Name               | GitHub user     | Description                          | Role
+---                | ---             | ---                                  | ---
+Simon J. Greenhill | @SimonGreenhill | patron                               | Author
 
 
