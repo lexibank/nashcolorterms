@@ -11,14 +11,14 @@
     "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "CLDF dataset derived from Nash's \"Loss of color terms not demonstrated.\" from 2017.",
+    "dc:title": "CLDF dataset derived from Nash's \"Loss of Color Terms not demonstrated.\" from 2017",
     "dcat:accessURL": "https://github.com/lexibank/nashcolorterms",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/nashcolorterms",
-            "dc:created": "0a08937"
+            "dc:created": "6b44102"
         },
         {
             "rdf:type": "prov:Entity",

@@ -1,4 +1,4 @@
-# CLDF dataset derived from Nash's "Loss of color terms not demonstrated." from 2017.
+# CLDF dataset derived from Nash's "Loss of Color Terms not demonstrated." from 2017
 
 Cite the source dataset as
 
